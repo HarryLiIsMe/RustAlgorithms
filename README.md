@@ -1,2 +1,2 @@
 # RustAlgorithms
-Some Algorithms implement by rust language.
+Some Algorithms and DataStructs implement by rust language.
